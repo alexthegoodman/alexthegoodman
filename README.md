@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Alex Goodman. I hope you find my Github repos both helpful and inspiring. All public repos are free to clone and use in any way you wish.
+My name is Alex Goodman. I hope you find my Github repos helpful and informative. All public repos are free to clone and use in any way you wish.
 
 ### About Me
 
