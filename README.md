@@ -6,11 +6,6 @@ My name is Alex Goodman. I hope you find my Github repos helpful and informative
 
 I am driven by outstanding designs and unforgettable experiences. I care deeply about the open source community and researching next-generation technology. Engineering is about so much more than code but also operations, strategy, and people. I seek to be involved with organizations that feel the same!
 
-### Current Side Project
-
-Poverty Map 2022 <br />
-`React.js Data Viz project involving D3, Mapbox, and Three.js`
-
 ### Notable Projects
 
 ClimateCheck <br />
