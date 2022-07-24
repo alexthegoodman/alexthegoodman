@@ -1,10 +1,10 @@
 ## Welcome!
 
-My name is Alex Goodman. I hope you find my Github repos helpful and informative. All public repos are free to clone and use in any way you wish.
+My name is Alex Goodman. I hope you find my Github repos helpful and informative.
 
 ### About Me
 
-I am driven by outstanding designs and unforgettable experiences. I care deeply about the open source community and researching next-generation technology. Engineering is about so much more than code but also operations, strategy, and people. I seek to be involved with organizations that feel the same!
+I care deeply about the open source community and researching next-generation technology. I'm an avid TypeScript engineer, and I wake up everyday to create great applications with React, React Native, Node (Nexus, Prisma), and PostgreSQL. Quality assurance means a lot to me, so I focus on BDD approaches and automated testing alongside a continuous learning mentality.
 
 ### Notable Projects
 
@@ -17,4 +17,4 @@ WebLeap <br />
 Assets <br />
 `Isomorphic + cross-platform application (Web, iOS, and Apple TV) for designers and photographers to manage proofs with clients`
 
-Thank you for visiting! You're a terrific reader.
+Thank you for visiting!
