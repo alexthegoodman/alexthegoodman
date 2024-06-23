@@ -1,15 +1,15 @@
-## Welcome!
+**Welcome!**
 
-My name is Alex Goodman. I hope you find my Github repos helpful and informative.
+My name is Alex Goodman. My Github is home to many of my ideas from over the years. Enjoy!
 
-### About Me
+**About Me**
 
-I'm an avid TypeScript / JavaScript engineer, and I wake up everyday to leverage that creating great applications with React, React Native, Node, Nexus, Prisma, and PostgreSQL. However, I have also built APIs and applications with Angular, Vue, Electron, C++, Ruby, PHP, and Python. You might call me "language-agnostic". Quality assurance means a lot to me, so I focus on automated testing (incl. BDD/TDD) alongside a continuous improvement mentality.
+I’ve been creating products since I was just a kid, driven to change the world through technology. This led me to getting contract work before I graduated high school, so I got my start early, and ultimately chose a full-time job over college. I am self-taught.
 
-Engineering for clients is about rapid iteration, fast delivery, and a client-first service approach, while remaining mindful of key quality areas such as security, performance, and scalability.
+Now, after 10+ years as a software developer, I am continuing to build new and exciting applications with my preferred languages: Rust, TypeScript, Python, C++, and C#. I have experience with most major languages and frameworks, having become “language-agnostic”.
 
-I AM passionate for outstanding designs and magical experiences. <br />
-I VALUE the design community and the open source community to build great products. <br />
-I WILL set realistic expectations and be honest and transparent.
+I prefer to take on the hard problems. While I have built many websites and simple dashboards, I like working with the math, the matrices and vertices, the GPU buffers, types, pointers, and other more advanced concepts needed for more demanding applications.
+
+When it comes to serving clients, I find that being rapid and fast, responsive, and transparent leads to the greatest results. You can expect no less when working with me.
 
 Thank you for visiting!
